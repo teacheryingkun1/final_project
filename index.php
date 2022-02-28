@@ -92,6 +92,7 @@
           <center>
             <h1>Content</h1>
           </center>
+          <center><img src="example_pix.jpg" class="img-fluid rounded"></center>
           <p>
             Lorem Ipsum is simply dummy text of the printing and typesetting
             industry. Lorem Ipsum has been the industry's standard dummy text
