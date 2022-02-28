@@ -22,7 +22,7 @@
       }
 
       #container {
-        border-radius: 15px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
       }
 
       #header {
@@ -74,6 +74,7 @@
   <body>
     <!-- คอนเทนเนอร์ -->
     <div class="container">
+      <div id="container">
       <div class="row">
         <div class="col-12" id="header">
           <!-- เฮดเดอร์ -->
@@ -116,6 +117,7 @@
           <h1>Footer</h1>
         </div>
       </div>
+      </div>  
     </div>
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script
