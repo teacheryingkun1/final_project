@@ -43,7 +43,7 @@
       }
 
       #footer {
-        height: 200px;
+        padding: 50px;
         background-color: pink;
       }
 
