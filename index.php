@@ -116,7 +116,11 @@
       <div class="row">
         <div class="col-12" id="footer">
           <!-- ฟุตเตอร์ -->
-          <h1>Footer</h1>
+          <center>
+            <h1>ผลงานนักเรียน</h1>
+            <p>รายวิชา WebApplication</p>
+            <p>โรงเรียนหล่มสักวิทยาคม</p>
+          </center>
         </div>
       </div>
       </div>  
