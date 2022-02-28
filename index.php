@@ -33,13 +33,13 @@
       }
 
       #sidebar {
-        background-color: green;
+        background-color: #f1f1f1
         padding: 0px;
       }
 
       #content {
         padding: 10px;
-        background-color: gray;
+        
       }
 
       #footer {
