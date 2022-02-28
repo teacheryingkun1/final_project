@@ -28,6 +28,7 @@
       #header {
         height: 160px;
         background-image: url("header.jpg");
+        background-size:100%;
       }
 
       #sidebar {
