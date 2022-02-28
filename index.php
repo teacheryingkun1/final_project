@@ -12,6 +12,7 @@
     	body{
 		font-family: 'Sarabun';
 	}
+	    .container{border-radius: 15px;}
       #header{
         height: 160px;
         background-color: orange;
