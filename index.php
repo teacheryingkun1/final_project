@@ -45,6 +45,7 @@
       #footer {
         padding: 50px;
         background-color: pink;
+        border-radius: 0 0 15px 15px;
       }
 
       ul {
