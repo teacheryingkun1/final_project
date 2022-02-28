@@ -27,7 +27,7 @@
 
       #header {
         height: 160px;
-        background-image: url("header.jpg");
+        background-image: url("header.jpg") no-repeat;
         background-size:100%;
       }
 
