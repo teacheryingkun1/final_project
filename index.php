@@ -27,7 +27,7 @@
 
       #header {
         height: 160px;
-        background-color: orange;
+        background-image: url("header.jpg");
       }
 
       #sidebar {
