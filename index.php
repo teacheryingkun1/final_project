@@ -19,6 +19,7 @@
     <style>
       body {
         font-family: "Sarabun";
+        background-color: #fdf2e7;
       }
 
       #container {
@@ -27,7 +28,7 @@
 
       #header {
         height: 160px;
-        background-image: url("header.jpg") no-repeat;
+        background-image: url("header.jpg");
         background-size:100%;
       }
 
