@@ -36,6 +36,7 @@
       }
 
       #content {
+        padding: 10px;
         background-color: gray;
       }
 
@@ -65,7 +66,7 @@
         color: white;
       }
       p{
-        margin-top: 5px;
+        margin-top: 10px;
       }
     </style>
   </head>
