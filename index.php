@@ -17,12 +17,10 @@
         background-color: orange;
       }
       #sidebar{
-        height: 450px;
         background-color: green;
         padding: 0px;
       }
       #content{
-        height: 450px;
         background-color: gray;
       }
       #footer{
@@ -58,16 +56,17 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-3" id="sidebar"> <!-- ไซด์บาร์ -->
+        <div class="col-2" id="sidebar"> <!-- ไซด์บาร์ -->
           <ul>
-            <li><a href="#home">Home</a></li>
-            <li><a href="#news">News</a></li>
-            <li><a href="#contact">Contact</a></li>
-            <li><a href="#about">About</a></li>
+            <li><a href="index.php">หน้าแรก</a></li>
+            <li><a href="#">แหล่งท่องเที่ยว</a></li>
+            <li><a href="#">ประเพณีและวัฒนธรรม</a></li>
+            <li><a href="#">อาหารประจำท้องถิ่น</a></li>
+            <li><a href="#">ข้อมูลผู้จัดทำ</a></li>
           </ul>
         </div>
-        <div class="col-9" id="content"> <!-- คอนเท้นต์ -->
-          <h1>Content</h1>
+        <div class="col-10" id="content"> <!-- คอนเท้นต์ -->
+          <center><h1>Content</h1></center>
         </div>
       </div>
        <div class="row">
